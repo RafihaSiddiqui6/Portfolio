@@ -244,7 +244,7 @@ export default function Navbar() {
                 className="mt-8 pt-8 border-t border-blue-100 text-center text-gray-500 text-sm"
               >
                 <p>© {new Date().getFullYear()} Rafiha Siddiqui</p>
-                <p className="mt-1">Full-Stack Developer</p>
+                <p className="mt-1">Front-End Developer</p>
               </motion.div>
             </motion.nav>
           </motion.div>
